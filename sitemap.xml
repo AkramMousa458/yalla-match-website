@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Replace YOUR_GITHUB_USERNAME and YOUR_REPOSITORY_NAME with the real GitHub Pages project URL before relying on this file. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/ar/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/en/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/ar/faq/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/en/faq/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/ar/contact/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/en/contact/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/ar/privacy/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/en/privacy/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/ar/terms/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/en/terms/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/ar/delete-account/</loc></url>
-  <url><loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/en/delete-account/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/ar/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/en/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/ar/faq/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/en/faq/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/ar/contact/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/en/contact/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/ar/privacy/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/en/privacy/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/ar/terms/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/en/terms/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/ar/delete-account/</loc></url>
+  <url><loc>https://akrammousa458.github.io/yalla-match-website/en/delete-account/</loc></url>
 </urlset>

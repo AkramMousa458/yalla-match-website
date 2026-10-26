@@ -4,6 +4,6 @@
    Do not invent a username. Do not add a trailing slash.
    Set appStoreUrl only when Apple gives Yalla Match a real App Store link. */
 window.YALLA_MATCH_SUPPORT = {
-  siteOrigin: "",
+  siteOrigin: "https://akrammousa458.github.io/yalla-match-website",
   appStoreUrl: ""
 };
