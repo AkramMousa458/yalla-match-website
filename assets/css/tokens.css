@@ -1,0 +1,33 @@
+/* Design tokens extracted from the Yalla Match Flutter app.
+   Sources: lib/core/utils/app_colors.dart, lib/core/theme/theme_light.dart,
+   lib/core/utils/app_string.dart, settings and home card widgets. */
+
+:root {
+  --color-primary: #01234d;
+  --color-primary-dark: #031020;
+  --color-secondary: #7dc84d;
+  --color-primary-soft: #2563eb;
+  --color-background: #f1f5f9;
+  --color-surface: #ffffff;
+  --color-text-primary: #0f172a;
+  --color-text-secondary: #64748b;
+  --color-text-body: #334155;
+  --color-border: #e2e8f0;
+  --color-input: #f8fafc;
+  --color-error: #ef4444;
+  --color-error-strong: #f04438;
+  --color-warning: #f79009;
+  --color-success: #12b76a;
+  --color-peach: #ffab91;
+  --color-on-primary: #ffffff;
+  --radius-card: 24px;
+  --radius-button: 30px;
+  --radius-input: 12px;
+  --radius-icon: 12px;
+  --shadow-card: 0 10px 28px rgba(15, 23, 42, 0.06);
+  --font-family: "Tajawal", "Segoe UI", Tahoma, sans-serif;
+  --header-height: 72px;
+  --space-page: 20px;
+  --content-width: 1120px;
+  --focus-ring: 0 0 0 3px rgba(125, 200, 77, 0.85);
+}

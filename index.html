@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>مركز دعم يلا ماتش | المساعدة والتواصل</title>
+  <meta name="description" content="مركز دعم يلا ماتش لمساعدتك في استخدام التطبيق، والإجابة عن الأسئلة الشائعة، والتواصل مع الدعم الفني، ومعرفة معلومات الخصوصية والحساب.">
+  <link rel="canonical" href="ar/">
+  <link rel="alternate" hreflang="ar" href="ar/">
+  <link rel="alternate" hreflang="en" href="en/">
+  <link rel="alternate" hreflang="x-default" href="ar/">
+  <meta name="theme-color" content="#01234D">
+  <link rel="icon" type="image/png" href="assets/images/favicon-32.png">
+  <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+  <link rel="stylesheet" href="assets/css/site.css">
+  <script>
+    (function () {
+      var lang = "ar";
+      try {
+        var saved = localStorage.getItem("yalla-match-lang");
+        if (saved === "en" || saved === "ar") lang = saved;
+      } catch (error) {}
+      location.replace(lang + "/");
+    })();
+  </script>
+</head>
+<body>
+  <main class="gate">
+    <section class="gate-card">
+      <img src="assets/images/app-icon.png" alt="" width="84" height="84">
+      <h1>يلا ماتش</h1>
+      <p>مركز الدعم الرسمي. اختر اللغة إذا لم ينتقل المتصفح تلقائيًا.</p>
+      <div class="gate-actions">
+        <a class="button button-navy" href="ar/" data-lang-link="ar">العربية</a>
+        <a class="button button-ghost" href="en/" data-lang-link="en">English</a>
+      </div>
+    </section>
+  </main>
+  <script src="assets/js/site-config.js"></script>
+  <script src="assets/js/site.js"></script>
+</body>
+</html>
